@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning and expanding my knowledge of **Flutter**
 
-- 👨‍💻 All of my projects are available at [flutterly.in](https://www.flutterly.in)
+- 👨‍💻 All of my projects are available at [vishalmakasana.com](https://vishalmakasana.com/)
 
 - 💬 Ask me about **Android, Flutter**
 
