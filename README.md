@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishhmakasana&label=Profile%20views&color=0e75b6&style=flat" alt="vishhmakasana" /> </p>
 
-- 🌱 I’m currently learning and expanding my knowledge of **Flutter**
+- 🌱 I’m currently working on **Flutter** and expanding my knowledge day by day.
 
 - 👨‍💻 All of my projects are available at [vishalmakasana.com](https://vishalmakasana.com/)
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 Ask me about **Flutter, Android**
 
 - 📫 Want to discuss project, reach me on **vishal.makasana@hotmail.com**
 
